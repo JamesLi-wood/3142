@@ -1,0 +1,31 @@
+Script started on 2022-10-02 02:16:51-04:00 [TERM="xterm-256color" TTY="/dev/tty1" COLUMNS="120" LINES="30"]
+[?2004h]0;root@DESKTOP-1U063F7: /mnt/c/Comp Sci/CISC/3142/Exercise_4root@DESKTOP-1U063F7:/mnt/c/Comp Sci/CISC/3142/Exercise_4# g++ -i[Ko 3.23 exercise4\(3.23\).cpp 
+[?2004l[?2004h]0;root@DESKTOP-1U063F7: /mnt/c/Comp Sci/CISC/3142/Exercise_4root@DESKTOP-1U063F7:/mnt/c/Comp Sci/CISC/3142/Exercise_4# ./3.23 
+[?2004l2 4 8 16 32 64 128 256 512 1024 [?2004h]0;root@DESKTOP-1U063F7: /mnt/c/Comp Sci/CISC/3142/Exercise_4root@DESKTOP-1U063F7:/mnt/c/Comp Sci/CISC/3142/Exercise_4# g++ -o 4.29[K8 exercise4\(4.28\).cpp 
+[?2004l[?2004h]0;root@DESKTOP-1U063F7: /mnt/c/Comp Sci/CISC/3142/Exercise_4root@DESKTOP-1U063F7:/mnt/c/Comp Sci/CISC/3142/Exercise_4# ./4.28
+[?2004lSize of char: 1 byte
+Size of int: 4 bytes
+Size of float: 4 bytes
+Size of double: 8 bytes
+[?2004h]0;root@DESKTOP-1U063F7: /mnt/c/Comp Sci/CISC/3142/Exercise_4root@DESKTOP-1U063F7:/mnt/c/Comp Sci/CISC/3142/Exercise_4# g++ -o practice1 exercise4\(practice1\).cpp 
+[?2004l[?2004h]0;root@DESKTOP-1U063F7: /mnt/c/Comp Sci/CISC/3142/Exercise_4root@DESKTOP-1U063F7:/mnt/c/Comp Sci/CISC/3142/Exercise_4# pr[K[K./practice1 
+[?2004lEnter the price: 5000
+How many years from now will the item be purchased? 3
+Enter the inflation rate in terms of percent: 3 10
+The expected price would be 6655[?2004h]0;root@DESKTOP-1U063F7: /mnt/c/Comp Sci/CISC/3142/Exercise_4root@DESKTOP-1U063F7:/mnt/c/Comp Sci/CISC/3142/Exercise_4# g++ -o practice2 exercise4\(practice2\).cpp 
+[?2004l[?2004h]0;root@DESKTOP-1U063F7: /mnt/c/Comp Sci/CISC/3142/Exercise_4root@DESKTOP-1U063F7:/mnt/c/Comp Sci/CISC/3142/Exercise_4# prac[K[K[K[K./practice2 
+3.23                      exercise4(3.23).cpp       exercise4(practice2).cpp  script-2022-10-02.log
+4.28                      exercise4(4.28).cpp       practice1                 time-2022-10-02.txt
+exercise4(3.17).cpp       exercise4(practice1).cpp  practice2                 
+]0;root@DESKTOP-1U063F7: /mnt/c/Comp Sci/CISC/3142/Exercise_4root@DESKTOP-1U063F7:/mnt/c/Comp Sci/CISC/3142/Exercise_4# ./practice2 
+[?2004lWhats the weight (pounds) at which you would stop dieting? 60  450   140
+you need to drink 25 cans of soda to reach a lethal dose.[?2004h]0;root@DESKTOP-1U063F7: /mnt/c/Comp Sci/CISC/3142/Exercise_4root@DESKTOP-1U063F7:/mnt/c/Comp Sci/CISC/3142/Exercise_4# g++  [K[K[K[K[K-oi[K 3.15[K7 exercise4\(3.2[K17\).cpp 
+[?2004l-o: command not found
+[?2004h]0;root@DESKTOP-1U063F7: /mnt/c/Comp Sci/CISC/3142/Exercise_4root@DESKTOP-1U063F7:/mnt/c/Comp Sci/CISC/3142/Exercise_4# g++ o[K-o 3.17 exercise4\(3.17\).cpp 
+[?2004l[?2004h]0;root@DESKTOP-1U063F7: /mnt/c/Comp Sci/CISC/3142/Exercise_4root@DESKTOP-1U063F7:/mnt/c/Comp Sci/CISC/3142/Exercise_4# 3.17[K[K[K[K./3.17 
+[?2004lH hello how are you  
+^C
+[?2004h]0;root@DESKTOP-1U063F7: /mnt/c/Comp Sci/CISC/3142/Exercise_4root@DESKTOP-1U063F7:/mnt/c/Comp Sci/CISC/3142/Exercise_4# exit
+[?2004lexit
+
+Script done on 2022-10-02 02:19:49-04:00 [COMMAND_EXIT_CODE="130"]
