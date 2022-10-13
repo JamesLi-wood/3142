@@ -1,0 +1,14 @@
+4.5
+a) -86
+b) -18
+c) 0
+d) -2
+
+4.17
+a) prefix is where the value is incremented/decremented at the beginning. ex: ++i
+b) postfix is where the value is incremented/decremented at the ending. ex: i++
+
+4.34
+a) fval is a boolean
+b) ival is converted to fval, then the result of fval + ival is converted to double
+c) cval is converted to an int, then cval and ival are converted to a double
